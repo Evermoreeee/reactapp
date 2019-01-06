@@ -1,0 +1,16 @@
+.itemBox{
+    border: 1px solid greenyellow;
+    margin-top: 44px;
+    height: calc(100% - 44px);
+    overflow: auto;
+    /* line-height: 44px;
+    font-size: 18px; */
+}
+.itemBox::-webkit-scrollbar{width:0;height:0}
+.firstLove{
+    padding: 18px;
+    height: auto;
+    font-size: 18px;
+    color: aquamarine;
+
+}

@@ -1,0 +1,15 @@
+.myBox{
+    width: 100%;
+    height: 100%;
+}
+.topTitle{
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    background: #fff333;
+    color: #fff;
+    font-size: 24px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}

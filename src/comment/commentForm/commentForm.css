@@ -1,0 +1,8 @@
+input,textarea{
+    height: 33px;
+    border: 1px solid red;
+    margin-bottom: 12px;
+}
+.myForm{
+    height: auto;
+}
